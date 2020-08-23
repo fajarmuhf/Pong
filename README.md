@@ -2,7 +2,7 @@
 
 Repository ini berisi tentang Project Game Pong yang didapatkan dari Kursus DiLo Game Academy.
 Tools yang digunakan untuk membuat project ini :
-2. Unity 2019.4.6f1 LTS
+1. Unity 2019.4.6f1 LTS
 2. Gimp 2.10.14
 
 Sistem Operasi yang digunakan :
